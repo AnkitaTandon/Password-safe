@@ -1,6 +1,6 @@
 # Password-safe (Command Line)
 An application to encrypt and store multiple passwords for multiple users with help of _stack manipulation_ and _files_.
-Here the user can refer to his decrypted passwords only by remembering their secret **Master Key** to unlock the barrior. 
+Here the user can refer to his decrypted passwords only by remembering their secret _**Master Key**_ to unlock the barrior. 
 
 ## Software
 C compiler: VS code along with mingw (suggestion)
@@ -14,14 +14,18 @@ To install and set up VS code for C and C++ programing environment, click [here]
 
 ## How to use?
 STEP 1. [Download](https://github.com/AnkitaTandon/Password-safe/blob/master/pwd_safe.c) the code file and run it on your machine.  
+
 STEP 2. After compiling, execute the program (duh!)
+
 STEP 3. _Sign up_ and _login_ options will displayed as shown below in given fig.
         Sign up is only for new user while login is for existing user.
         (It will prompt an error message on choosing inappropriate options and take you back to the menu page)
-        []!()
+        
 STEP 4. Follow the instruction and create/enter the Master Key w.r.t sign_up/login.
+
 STEP 5. In the Sign up section, you will have to enter your details including the passwords.
         In the Login section, you will get an option to either insert, delete or display your passwords.
+        
 STEP 6. Choose the options accordingly to obtain the desired outcome.
         
 ## Screenshots
