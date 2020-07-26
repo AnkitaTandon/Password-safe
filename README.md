@@ -4,7 +4,8 @@ Here the user can refer to his decrypted passwords only by remembering their sec
 
 ## Software
 C compiler: VS code along with mingw (suggestion)
-To install and set up VS code for C and C++ programing environment, click [here](https://www.youtube.com/watch?v=9xCskNFVt2c&t=725s) or [here](https://www.youtube.com/watch?v=VBb0Z0e8szw)
+
+To `install` and `set up` VS code for C and C++ programing environment, click [here](https://www.youtube.com/watch?v=9xCskNFVt2c&t=725s) or [here](https://www.youtube.com/watch?v=VBb0Z0e8szw)
 
 ## Features
 - encrypts and decrypts passwords and stores them in a file with username
@@ -30,12 +31,13 @@ STEP 6. Choose the options accordingly to obtain the desired outcome.
         
 ## Screenshots
 
-## Outcome or objective
-•	Secure data & information from unauthorized access and thus maintains the confidentiality.
-•	Multiple users can store multiple passwords.
-• Two step verification.
-•	One Master key for all passwords of a user, reducing the load of remembrance.
-•	Simple, quick and efficient. 
+## Outcome or Objective
+
+>- Secure data & information from unauthorized access and thus maintains the confidentiality.
+>- Multiple users can store multiple passwords.
+>- Two step verification.
+>- One Master key for all passwords of a user, reducing the load of remembrance.
+>- Simple, quick and efficient. 
 
 ## Contribute
 1. Add in more details of the user and store the details in secure manner
