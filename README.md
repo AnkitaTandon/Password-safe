@@ -7,11 +7,19 @@ C compiler: VS code along with mingw (suggestion)
 
 To `install` and `set up` VS code for C and C++ programing environment, click [here](https://www.youtube.com/watch?v=9xCskNFVt2c&t=725s) or [here](https://www.youtube.com/watch?v=VBb0Z0e8szw)
 
+## Outcome or Objective
+
+>- Secure data & information from unauthorized access and thus maintains the confidentiality.
+>- Multiple users can store multiple passwords.
+>- Two step verification.
+>- One Master key for all passwords of a user, reducing the load of remembrance.
+>- Simple, quick and efficient. 
+
 ## Features
-- encrypts and decrypts passwords and stores them in a file with username
-- re-entering passwords to avoid typo.
-- can add and delete any number of passwords
-- easy to use, user friendly :p
+>- Encrypts and decrypts passwords and stores them in a file with username
+>- Re-entering passwords to avoid typo.
+>- The user can add and delete any number of passwords
+>- Easy to use, user-friendly :p
 
 ## How to use?
 STEP 1. [Download](https://github.com/AnkitaTandon/Password-safe/blob/master/pwd_safe.c) the code file and run it on your machine.  
@@ -31,13 +39,6 @@ STEP 6. Choose the options accordingly to obtain the desired outcome.
         
 ## Screenshots
 
-## Outcome or Objective
-
->- Secure data & information from unauthorized access and thus maintains the confidentiality.
->- Multiple users can store multiple passwords.
->- Two step verification.
->- One Master key for all passwords of a user, reducing the load of remembrance.
->- Simple, quick and efficient. 
 
 ## Contribute
 1. Add in more details of the user and store the details in secure manner
