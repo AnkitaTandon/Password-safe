@@ -46,6 +46,6 @@ STEP 6. Choose the options accordingly to obtain the desired outcome.
 3. Send emails or/and messages to the user on failed or unauthorized access
 4. Forgot password
 
-## Credit
+## Support
 @CodePurble
 
